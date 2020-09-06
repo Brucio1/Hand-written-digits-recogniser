@@ -7,4 +7,4 @@ A machine learning program that lets you draw a digit and recognises it with a v
 - OpenCV
 - Numpy
 
-To run the program on your local machine, download the two files into the same folder. Run "model.py" to train the model and then "digit_recogniser.py" to start the program.
+To run it on your local machine, download the two files into the same folder. Run "model.py" to train the model and then "digit_recogniser.py" to start the program.
