@@ -57,7 +57,7 @@ def main():
 	is_using_program = True
 
 	while(is_using_program):
-		#Displays the program's window
+		#Display the program's window
 		cv2.imshow("Recognising hand-written digits", drawing_area)
 		key = cv2.waitKey(1) & 0xFF
 
