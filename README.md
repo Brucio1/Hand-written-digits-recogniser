@@ -3,7 +3,7 @@ A machine learning program that lets you draw a digit and recognises it with hig
 
 # Installation requirements
 - Python 3.7 or below
-- Tensorflow
+- Tensorflow 2.0 or higher
 - OpenCV
 - Numpy
 
