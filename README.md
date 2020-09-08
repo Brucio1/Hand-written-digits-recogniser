@@ -1,6 +1,8 @@
 # Handwritten-digit-recogniser
 A machine learning program that lets you draw a digit and recognises it with high accuracy. This uses Convolutional Neural Networks.
 
+![](digit_recogniser.gif)
+
 # Installation requirements
 - Python 3.7 or below
 - Tensorflow 2.0 or higher
