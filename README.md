@@ -4,7 +4,7 @@ A machine learning program that lets you draw a digit and recognises it with hig
 ![](digit_recogniser_demo.gif)
 
 # Installation requirements
-- Python 3.7 or below
+- Python 3.X
 - Tensorflow 2.0 or higher
 - OpenCV
 - Numpy
